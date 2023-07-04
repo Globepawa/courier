@@ -1,0 +1,14 @@
+div{box-shadow:  0 0 4px; margin: auto; border-radius: 15px;}
+body{
+    max-width: 560px;
+    margin: auto;
+    padding-top: 1pc;
+    height: 100vh;
+    box-shadow:  0 0 8px rgb(19, 201, 43);
+}
+.tp{width: 90%; height: 120px; display: flex; padding: 1%;}
+.img{width: 30%; height: inherit;border-radius: 50%; margin-right: 5px;}
+.desc{width: 70%; height: inherit; background-color: rgb(210, 226, 226);}
+.menu{width: 90%; margin: auto; margin-top: 20px; text-align: center;}
+button{width: 80%; height: 70px; margin: 10px; font-size: larger; font-weight: bold; border-radius: 20px;}
+
